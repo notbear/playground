@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notbear/playground.git"
+  },
+  "author": "NotBear",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notbear/playground/issues"
+  },
+  "homepage": "https://github.com/notbear/playground#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3"
+  }
+}
